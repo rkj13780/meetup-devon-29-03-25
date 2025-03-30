@@ -8,3 +8,4 @@
  local to folder: 
   git config user.name "Rakesh Kumar"
   git config user.email "rakeshonrediff@gmail.com"
+git config commit.gpgsign false
