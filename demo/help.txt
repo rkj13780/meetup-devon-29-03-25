@@ -1,0 +1,10 @@
+1) Create environment -> python -m venv myenv
+2) Create Requirments.txt file
+3) create .env for environment varialbes and paste required key and secrets
+
+
+--------------
+
+ local to folder: 
+  git config user.name "Rakesh Kumar"
+  git config user.email "rakeshonrediff@gmail.com"
